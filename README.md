@@ -17,4 +17,4 @@ or `make ; ./minishell -c [command]`
 
 ![Example](img/screenshot.png)
 
-*In collaboration with @mabriand-42 :two_hearts:*
+*In collaboration with @adbenoit-9 :two_hearts:*
